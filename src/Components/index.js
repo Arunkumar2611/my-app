@@ -1,3 +1,2 @@
-import DashBoard from './dashBoard';
-import DashBoardImage from './dashboardImage'
-export default {DashBoard, DashBoardImage};
+export { DashBoard } from './dashboard';
+export { SlideImage } from './slideImage';
